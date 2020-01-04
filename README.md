@@ -1,7 +1,3 @@
-# Miui-fy
-
-Miui-fy Lets You Add Some Miui Feel To Your Device
-It Will Be Updated Every Week So You Get New Features Every time. 
 
 ## Changelog
 # Miui-fy v1.2
