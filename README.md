@@ -23,16 +23,16 @@ Download And Install From Magisk Manager Or Flash From Any Custom Recovery
 
 ## Contributing
 
-*@Gautam4966
+* @Gautam4966
 
 
 ## Authors
 
 * **Gautam** - *Initial work* - [Gautam4966](https://github.com/Gautam4966)
 
-##Credits
+## Credits
 
-*Xiaomi for Miui.
-*@topjohnwu for creating Magisk.
-*@fxsheep (https://forum.xda-developers.com/member.php?u=8302434) for camera app
+* Xiaomi for Miui.
+* @topjohnwu for creating Magisk.
+* fxsheep (https://forum.xda-developers.com/member.php?u=8302434) for camera app
 
