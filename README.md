@@ -1,17 +1,17 @@
-Miui-fy v1.2
+## Miui-fy v1.2
 
-Description
+# Description
 
 Miui-fy Lets You Add Some Miui Feel To Your Phone.
 
-Changelog
+# Changelog
 
 -Added New Camera App (Not guaranteed Working On All Phones)
 -Added Magisk Support
 
-Requirements
+# Requirements
 
 Android 6.0+
 Magisk 15+
 
-Just Install From Magisk Manager Or Flash By Custom Recovery
+# Installation = Just Install From Magisk Manager Or Flash By Custom Recovery
