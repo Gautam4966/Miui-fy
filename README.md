@@ -1,10 +1,10 @@
 
 ## Changelog
 # Miui-fy v1.2
--Added New Camera App (Not guaranteed Working On All Phones)
--Added Magisk Support
+* Added New Camera App (Not guaranteed Working On All Phones)
+* Added Magisk Support
 # Miui-fy 1.0
--Initial Release
+* Initial Release
 
 ### Prerequisites
 
